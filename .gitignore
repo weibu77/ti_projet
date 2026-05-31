@@ -1,0 +1,24 @@
+# CCS / build outputs
+Debug/
+Release/
+*.o
+*.d
+*.d_raw
+*.out
+*.map
+*_linkInfo.xml
+*.obj
+*.elf
+*.hex
+*.bin
+
+# Generated caches
+__pycache__/
+*.py[cod]
+.clangd/
+
+# Local editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
